@@ -11,5 +11,6 @@ This task focuses on Exploratory Data Analysis (EDA) using Swiggy restaurant dat
 - Google Colab
 
 ## Files
-- Swiggy_EDA_Project.ipynb
-- Swiggy_EDA_Project_Colab.pdf
+- `Swiggy_EDA_Project.ipynb` → Google Colab notebook
+
+- `Swiggy_EDA_Project - Colab.pdf` → Project report in PDF format
